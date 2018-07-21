@@ -1,0 +1,22 @@
+{
+  "name": "mvt-client",
+  "version": "1.0.0",
+  "description": "A static html site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/serve/bin/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbancroft/tegola-mvt-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbancroft/tegola-mvt-client/issues"
+  },
+  "homepage": "https://github.com/brianbancroft/tegola-mvt-client#readme",
+  "dependencies": {
+    "serve": "^4.0.2"
+  }
+}

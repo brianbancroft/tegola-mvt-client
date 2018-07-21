@@ -1,0 +1,25 @@
+body {
+  border: 0;
+  padding: 0;
+}
+
+section.main {
+  outline-style: solid;
+  outline-color: orange;
+  width: 100vw;
+  height: 90vh;
+}
+
+.map-container {
+  width: 100%;
+  height: 100%;
+  outline-style: dashed;
+  outline-color: blue;
+}
+
+#map {
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
